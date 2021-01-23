@@ -34,5 +34,5 @@ case "4":
           console.log(sha512Hash(input));
           break;
 default:
-    console.log("Not a Valid Option! Please try again")
+    console.log("Not a Valid Option. Please Try Again !")
 } 
